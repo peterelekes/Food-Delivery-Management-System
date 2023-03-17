@@ -1,0 +1,8 @@
+Order ID: 2
+Client ID: 3
+Price: 343
+On date: Thu May 26 08:16:13 EEST 2022
+Products:
+Daily Menu 1+PRICE: 272
+Barbecued Shrimp +PRICE: 71
+==========================================================

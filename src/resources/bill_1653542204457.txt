@@ -1,0 +1,9 @@
+Order ID: 3
+Client ID: 3
+Price: 113
+On date: Thu May 26 08:16:44 EEST 2022
+Products:
+Coriander-Herb Spice Rub +PRICE: 51
+Ethiopian Spice Tea +PRICE: 49
+Cauliflower-Leek Purée +PRICE: 13
+==========================================================

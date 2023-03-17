@@ -1,0 +1,9 @@
+Order ID: 1
+Client ID: 3
+Price: 151
+On date: Thu May 26 07:47:38 EEST 2022
+Products:
+Ethiopian Spice Tea +PRICE: 49
+Cauliflower-Leek Purée +PRICE: 13
+Island Salsa +PRICE: 89
+==========================================================
